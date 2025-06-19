@@ -1,0 +1,508 @@
+2025-06-15 18:31:06,956 - INFO - Enhanced database tables created successfully!
+2025-06-15 19:15:20,707 - INFO -    Total matches: 380
+2025-06-15 19:15:20,720 - INFO -    Successfully processed: 0
+2025-06-15 19:15:20,732 - INFO -    Detailed data: 0
+2025-06-15 19:15:20,740 - INFO -    Basic data only: 0
+2025-06-15 19:15:20,750 - INFO -    Failed: 380
+2025-06-15 19:15:20,757 - INFO -    Collection time: 44.22 minutes
+2025-06-15 19:15:20,766 - INFO -    API requests: 381 (Success: 381, Failed: 0)
+2025-06-15 20:00:29,063 - INFO - Enhanced database tables created successfully!
+2025-06-15 20:00:29,063 - INFO - [START] Starting enhanced data collection for competition 2021, season 2024
+2025-06-15 20:00:29,912 - INFO - [INFO] Found 380 matches for Premier League
+2025-06-15 20:00:29,912 - INFO - [PROGRESS] Progress: 1/380 (0.3%) - Processing: Manchester United FC vs Fulham FC (ID: 497410)
+2025-06-15 20:00:36,247 - INFO - [PROGRESS] Progress: 2/380 (0.5%) - Processing: Ipswich Town FC vs Liverpool FC (ID: 497411)
+2025-06-15 20:00:42,596 - INFO - [PROGRESS] Progress: 3/380 (0.8%) - Processing: Arsenal FC vs Wolverhampton Wanderers FC (ID: 497412)
+2025-06-15 20:00:48,930 - INFO - [PROGRESS] Progress: 4/380 (1.1%) - Processing: Everton FC vs Brighton & Hove Albion FC (ID: 497413)
+2025-06-15 20:00:55,263 - INFO - [PROGRESS] Progress: 5/380 (1.3%) - Processing: Newcastle United FC vs Southampton FC (ID: 497414)
+2025-06-15 20:01:01,596 - INFO - [PROGRESS] Progress: 6/380 (1.6%) - Processing: Nottingham Forest FC vs AFC Bournemouth (ID: 497415)
+2025-06-15 20:01:07,946 - INFO - [PROGRESS] Progress: 7/380 (1.8%) - Processing: West Ham United FC vs Aston Villa FC (ID: 497416)
+2025-06-15 20:01:14,347 - INFO - [PROGRESS] Progress: 8/380 (2.1%) - Processing: Brentford FC vs Crystal Palace FC (ID: 497417)
+2025-06-15 20:01:20,680 - INFO - [PROGRESS] Progress: 9/380 (2.4%) - Processing: Chelsea FC vs Manchester City FC (ID: 497418)
+2025-06-15 20:01:27,030 - INFO - [PROGRESS] Progress: 10/380 (2.6%) - Processing: Leicester City FC vs Tottenham Hotspur FC (ID: 497419)
+2025-06-15 20:01:33,347 - INFO - [INFO] Intermediate Stats - Detailed: 10, Basic: 0, Failed: 0
+2025-06-15 20:01:33,347 - INFO - [PROGRESS] Progress: 11/380 (2.9%) - Processing: Brighton & Hove Albion FC vs Manchester United FC (ID: 497422)
+2025-06-15 20:01:39,680 - INFO - [PROGRESS] Progress: 12/380 (3.2%) - Processing: Crystal Palace FC vs West Ham United FC (ID: 497423)
+2025-06-15 20:01:46,056 - INFO - [PROGRESS] Progress: 13/380 (3.4%) - Processing: Fulham FC vs Leicester City FC (ID: 497424)
+2025-06-15 20:01:52,397 - INFO - [PROGRESS] Progress: 14/380 (3.7%) - Processing: Manchester City FC vs Ipswich Town FC (ID: 497426)
+2025-06-15 20:01:58,719 - INFO - [PROGRESS] Progress: 15/380 (3.9%) - Processing: Southampton FC vs Nottingham Forest FC (ID: 497427)
+2025-06-15 20:02:05,145 - INFO - [PROGRESS] Progress: 16/380 (4.2%) - Processing: Tottenham Hotspur FC vs Everton FC (ID: 497428)
+2025-06-15 20:02:11,631 - INFO - [PROGRESS] Progress: 17/380 (4.5%) - Processing: Aston Villa FC vs Arsenal FC (ID: 497421)
+2025-06-15 20:02:18,081 - INFO - [PROGRESS] Progress: 18/380 (4.7%) - Processing: AFC Bournemouth vs Newcastle United FC (ID: 497420)
+2025-06-15 20:02:24,397 - INFO - [PROGRESS] Progress: 19/380 (5.0%) - Processing: Wolverhampton Wanderers FC vs Chelsea FC (ID: 497429)
+2025-06-15 20:02:30,881 - INFO - [PROGRESS] Progress: 20/380 (5.3%) - Processing: Liverpool FC vs Brentford FC (ID: 497425)
+2025-06-15 20:02:37,223 - INFO - [INFO] Intermediate Stats - Detailed: 20, Basic: 0, Failed: 0
+2025-06-15 20:02:37,223 - INFO - [PROGRESS] Progress: 21/380 (5.5%) - Processing: Arsenal FC vs Brighton & Hove Albion FC (ID: 497430)
+2025-06-15 20:02:43,564 - INFO - [PROGRESS] Progress: 22/380 (5.8%) - Processing: Brentford FC vs Southampton FC (ID: 497431)
+2025-06-15 20:02:49,921 - INFO - [PROGRESS] Progress: 23/380 (6.1%) - Processing: Everton FC vs AFC Bournemouth (ID: 497433)
+2025-06-15 20:02:56,231 - INFO - [PROGRESS] Progress: 24/380 (6.3%) - Processing: Ipswich Town FC vs Fulham FC (ID: 497434)
+2025-06-15 20:03:02,616 - INFO - [PROGRESS] Progress: 25/380 (6.6%) - Processing: Leicester City FC vs Aston Villa FC (ID: 497435)
+2025-06-15 20:03:08,929 - INFO - [PROGRESS] Progress: 26/380 (6.8%) - Processing: Nottingham Forest FC vs Wolverhampton Wanderers FC (ID: 497438)
+2025-06-15 20:03:15,295 - INFO - [PROGRESS] Progress: 27/380 (7.1%) - Processing: West Ham United FC vs Manchester City FC (ID: 497439)
+2025-06-15 20:03:21,630 - INFO - [PROGRESS] Progress: 28/380 (7.4%) - Processing: Chelsea FC vs Crystal Palace FC (ID: 497432)
+2025-06-15 20:03:27,971 - INFO - [PROGRESS] Progress: 29/380 (7.6%) - Processing: Newcastle United FC vs Tottenham Hotspur FC (ID: 497437)
+2025-06-15 20:03:34,375 - INFO - [PROGRESS] Progress: 30/380 (7.9%) - Processing: Manchester United FC vs Liverpool FC (ID: 497436)
+2025-06-15 20:03:40,697 - INFO - [INFO] Intermediate Stats - Detailed: 30, Basic: 0, Failed: 0
+2025-06-15 20:03:40,697 - INFO - [PROGRESS] Progress: 31/380 (8.2%) - Processing: Southampton FC vs Manchester United FC (ID: 497447)
+2025-06-15 20:03:47,025 - INFO - [PROGRESS] Progress: 32/380 (8.4%) - Processing: Brighton & Hove Albion FC vs Ipswich Town FC (ID: 497442)
+2025-06-15 20:03:53,415 - INFO - [PROGRESS] Progress: 33/380 (8.7%) - Processing: Crystal Palace FC vs Leicester City FC (ID: 497443)
+2025-06-15 20:03:59,741 - INFO - [PROGRESS] Progress: 34/380 (8.9%) - Processing: Fulham FC vs West Ham United FC (ID: 497444)
+2025-06-15 20:04:06,219 - INFO - [PROGRESS] Progress: 35/380 (9.2%) - Processing: Liverpool FC vs Nottingham Forest FC (ID: 497445)
+2025-06-15 20:04:12,598 - INFO - [PROGRESS] Progress: 36/380 (9.5%) - Processing: Manchester City FC vs Brentford FC (ID: 497446)
+2025-06-15 20:04:18,948 - INFO - [PROGRESS] Progress: 37/380 (9.7%) - Processing: Aston Villa FC vs Everton FC (ID: 497441)
+2025-06-15 20:04:25,395 - INFO - [PROGRESS] Progress: 38/380 (10.0%) - Processing: AFC Bournemouth vs Chelsea FC (ID: 497440)
+2025-06-15 20:04:31,739 - INFO - [PROGRESS] Progress: 39/380 (10.3%) - Processing: Tottenham Hotspur FC vs Arsenal FC (ID: 497448)
+2025-06-15 20:04:38,242 - INFO - [PROGRESS] Progress: 40/380 (10.5%) - Processing: Wolverhampton Wanderers FC vs Newcastle United FC (ID: 497449)
+2025-06-15 20:04:44,546 - INFO - [INFO] Intermediate Stats - Detailed: 40, Basic: 0, Failed: 0
+2025-06-15 20:04:44,546 - INFO - [PROGRESS] Progress: 41/380 (10.8%) - Processing: West Ham United FC vs Chelsea FC (ID: 497459)
+2025-06-15 20:04:50,999 - INFO - [PROGRESS] Progress: 42/380 (11.1%) - Processing: Aston Villa FC vs Wolverhampton Wanderers FC (ID: 497450)
+2025-06-15 20:04:57,380 - INFO - [PROGRESS] Progress: 43/380 (11.3%) - Processing: Fulham FC vs Newcastle United FC (ID: 497453)
+2025-06-15 20:05:03,798 - INFO - [PROGRESS] Progress: 44/380 (11.6%) - Processing: Leicester City FC vs Everton FC (ID: 497454)
+2025-06-15 20:05:10,149 - INFO - [PROGRESS] Progress: 45/380 (11.8%) - Processing: Liverpool FC vs AFC Bournemouth (ID: 497455)
+2025-06-15 20:05:16,491 - INFO - [PROGRESS] Progress: 46/380 (12.1%) - Processing: Southampton FC vs Ipswich Town FC (ID: 497457)
+2025-06-15 20:05:22,818 - INFO - [PROGRESS] Progress: 47/380 (12.4%) - Processing: Tottenham Hotspur FC vs Brentford FC (ID: 497458)
+2025-06-15 20:05:29,146 - INFO - [PROGRESS] Progress: 48/380 (12.6%) - Processing: Crystal Palace FC vs Manchester United FC (ID: 497452)
+2025-06-15 20:05:35,464 - INFO - [PROGRESS] Progress: 49/380 (12.9%) - Processing: Brighton & Hove Albion FC vs Nottingham Forest FC (ID: 497451)
+2025-06-15 20:05:41,799 - INFO - [PROGRESS] Progress: 50/380 (13.2%) - Processing: Manchester City FC vs Arsenal FC (ID: 497456)
+2025-06-15 20:05:48,132 - INFO - [INFO] Intermediate Stats - Detailed: 50, Basic: 0, Failed: 0
+2025-06-15 20:05:48,134 - INFO - [PROGRESS] Progress: 51/380 (13.4%) - Processing: Newcastle United FC vs Manchester City FC (ID: 497467)
+2025-06-15 20:05:54,474 - INFO - [PROGRESS] Progress: 52/380 (13.7%) - Processing: Arsenal FC vs Leicester City FC (ID: 497461)
+2025-06-15 20:06:00,972 - INFO - [PROGRESS] Progress: 53/380 (13.9%) - Processing: Brentford FC vs West Ham United FC (ID: 497462)
+2025-06-15 20:06:07,376 - INFO - [PROGRESS] Progress: 54/380 (14.2%) - Processing: Chelsea FC vs Brighton & Hove Albion FC (ID: 497463)
+2025-06-15 20:06:13,689 - INFO - [PROGRESS] Progress: 55/380 (14.5%) - Processing: Everton FC vs Crystal Palace FC (ID: 497464)
+2025-06-15 20:06:20,000 - INFO - [PROGRESS] Progress: 56/380 (14.7%) - Processing: Nottingham Forest FC vs Fulham FC (ID: 497468)
+2025-06-15 20:06:26,373 - INFO - [PROGRESS] Progress: 57/380 (15.0%) - Processing: Wolverhampton Wanderers FC vs Liverpool FC (ID: 497469)
+2025-06-15 20:06:32,733 - INFO - [PROGRESS] Progress: 58/380 (15.3%) - Processing: Ipswich Town FC vs Aston Villa FC (ID: 497465)
+2025-06-15 20:06:39,100 - INFO - [PROGRESS] Progress: 59/380 (15.5%) - Processing: Manchester United FC vs Tottenham Hotspur FC (ID: 497466)
+2025-06-15 20:06:45,443 - INFO - [PROGRESS] Progress: 60/380 (15.8%) - Processing: AFC Bournemouth vs Southampton FC (ID: 497460)
+2025-06-15 20:06:51,916 - INFO - [INFO] Intermediate Stats - Detailed: 60, Basic: 0, Failed: 0
+2025-06-15 20:06:51,916 - INFO - [PROGRESS] Progress: 61/380 (16.1%) - Processing: Crystal Palace FC vs Liverpool FC (ID: 497475)
+2025-06-15 20:06:58,246 - INFO - [PROGRESS] Progress: 62/380 (16.3%) - Processing: Arsenal FC vs Southampton FC (ID: 497470)
+2025-06-15 20:07:04,595 - INFO - [PROGRESS] Progress: 63/380 (16.6%) - Processing: Brentford FC vs Wolverhampton Wanderers FC (ID: 497472)
+2025-06-15 20:07:10,917 - INFO - [PROGRESS] Progress: 64/380 (16.8%) - Processing: Leicester City FC vs AFC Bournemouth (ID: 497477)
+2025-06-15 20:07:17,288 - INFO - [PROGRESS] Progress: 65/380 (17.1%) - Processing: Manchester City FC vs Fulham FC (ID: 497478)
+2025-06-15 20:07:23,606 - INFO - [PROGRESS] Progress: 66/380 (17.4%) - Processing: West Ham United FC vs Ipswich Town FC (ID: 497479)
+2025-06-15 20:07:29,968 - INFO - [PROGRESS] Progress: 67/380 (17.6%) - Processing: Everton FC vs Newcastle United FC (ID: 497476)
+2025-06-15 20:07:36,344 - INFO - [PROGRESS] Progress: 68/380 (17.9%) - Processing: Aston Villa FC vs Manchester United FC (ID: 497471)
+2025-06-15 20:07:42,651 - INFO - [PROGRESS] Progress: 69/380 (18.2%) - Processing: Chelsea FC vs Nottingham Forest FC (ID: 497474)
+2025-06-15 20:07:48,984 - INFO - [PROGRESS] Progress: 70/380 (18.4%) - Processing: Brighton & Hove Albion FC vs Tottenham Hotspur FC (ID: 497473)
+2025-06-15 20:07:55,323 - INFO - [INFO] Intermediate Stats - Detailed: 70, Basic: 0, Failed: 0
+2025-06-15 20:07:55,323 - INFO - [PROGRESS] Progress: 71/380 (18.7%) - Processing: Tottenham Hotspur FC vs West Ham United FC (ID: 497488)
+2025-06-15 20:08:01,659 - INFO - [PROGRESS] Progress: 72/380 (18.9%) - Processing: Fulham FC vs Aston Villa FC (ID: 497481)
+2025-06-15 20:08:08,023 - INFO - [PROGRESS] Progress: 73/380 (19.2%) - Processing: Ipswich Town FC vs Everton FC (ID: 497482)
+2025-06-15 20:08:14,377 - INFO - [PROGRESS] Progress: 74/380 (19.5%) - Processing: Manchester United FC vs Brentford FC (ID: 497484)
+2025-06-15 20:08:20,720 - INFO - [PROGRESS] Progress: 75/380 (19.7%) - Processing: Newcastle United FC vs Brighton & Hove Albion FC (ID: 497485)
+2025-06-15 20:08:27,093 - INFO - [PROGRESS] Progress: 76/380 (20.0%) - Processing: Southampton FC vs Leicester City FC (ID: 497487)
+2025-06-15 20:08:33,401 - INFO - [PROGRESS] Progress: 77/380 (20.3%) - Processing: AFC Bournemouth vs Arsenal FC (ID: 497480)
+2025-06-15 20:08:39,751 - INFO - [PROGRESS] Progress: 78/380 (20.5%) - Processing: Wolverhampton Wanderers FC vs Manchester City FC (ID: 497489)
+2025-06-15 20:08:46,093 - INFO - [PROGRESS] Progress: 79/380 (20.8%) - Processing: Liverpool FC vs Chelsea FC (ID: 497483)
+2025-06-15 20:08:52,417 - INFO - [PROGRESS] Progress: 80/380 (21.1%) - Processing: Nottingham Forest FC vs Crystal Palace FC (ID: 497486)
+2025-06-15 20:08:58,768 - INFO - [INFO] Intermediate Stats - Detailed: 80, Basic: 0, Failed: 0
+2025-06-15 20:08:58,768 - INFO - [PROGRESS] Progress: 81/380 (21.3%) - Processing: Leicester City FC vs Nottingham Forest FC (ID: 497497)
+2025-06-15 20:09:05,101 - INFO - [PROGRESS] Progress: 82/380 (21.6%) - Processing: Aston Villa FC vs AFC Bournemouth (ID: 497491)
+2025-06-15 20:09:11,483 - INFO - [PROGRESS] Progress: 83/380 (21.8%) - Processing: Brentford FC vs Ipswich Town FC (ID: 497492)
+2025-06-15 20:09:17,824 - INFO - [PROGRESS] Progress: 84/380 (22.1%) - Processing: Brighton & Hove Albion FC vs Wolverhampton Wanderers FC (ID: 497493)
+2025-06-15 20:09:24,148 - INFO - [PROGRESS] Progress: 85/380 (22.4%) - Processing: Manchester City FC vs Southampton FC (ID: 497498)
+2025-06-15 20:09:30,496 - INFO - [PROGRESS] Progress: 86/380 (22.6%) - Processing: Everton FC vs Fulham FC (ID: 497496)
+2025-06-15 20:09:36,833 - INFO - [PROGRESS] Progress: 87/380 (22.9%) - Processing: Chelsea FC vs Newcastle United FC (ID: 497494)
+2025-06-15 20:09:43,152 - INFO - [PROGRESS] Progress: 88/380 (23.2%) - Processing: Crystal Palace FC vs Tottenham Hotspur FC (ID: 497495)
+2025-06-15 20:09:49,503 - INFO - [PROGRESS] Progress: 89/380 (23.4%) - Processing: West Ham United FC vs Manchester United FC (ID: 497499)
+2025-06-15 20:09:55,824 - INFO - [PROGRESS] Progress: 90/380 (23.7%) - Processing: Arsenal FC vs Liverpool FC (ID: 497490)
+2025-06-15 20:10:02,210 - INFO - [INFO] Intermediate Stats - Detailed: 90, Basic: 0, Failed: 0
+2025-06-15 20:10:02,212 - INFO - [PROGRESS] Progress: 91/380 (23.9%) - Processing: Newcastle United FC vs Arsenal FC (ID: 497505)
+2025-06-15 20:10:08,534 - INFO - [PROGRESS] Progress: 92/380 (24.2%) - Processing: AFC Bournemouth vs Manchester City FC (ID: 497500)
+2025-06-15 20:10:14,859 - INFO - [PROGRESS] Progress: 93/380 (24.5%) - Processing: Ipswich Town FC vs Leicester City FC (ID: 497502)
+2025-06-15 20:10:21,178 - INFO - [PROGRESS] Progress: 94/380 (24.7%) - Processing: Liverpool FC vs Brighton & Hove Albion FC (ID: 497503)
+2025-06-15 20:10:27,521 - INFO - [PROGRESS] Progress: 95/380 (25.0%) - Processing: Nottingham Forest FC vs West Ham United FC (ID: 497506)
+2025-06-15 20:10:33,857 - INFO - [PROGRESS] Progress: 96/380 (25.3%) - Processing: Southampton FC vs Everton FC (ID: 497507)
+2025-06-15 20:10:40,237 - INFO - [PROGRESS] Progress: 97/380 (25.5%) - Processing: Wolverhampton Wanderers FC vs Crystal Palace FC (ID: 497509)
+2025-06-15 20:10:46,578 - INFO - [PROGRESS] Progress: 98/380 (25.8%) - Processing: Tottenham Hotspur FC vs Aston Villa FC (ID: 497508)
+2025-06-15 20:10:52,969 - INFO - [PROGRESS] Progress: 99/380 (26.1%) - Processing: Manchester United FC vs Chelsea FC (ID: 497504)
+2025-06-15 20:10:59,338 - INFO - [PROGRESS] Progress: 100/380 (26.3%) - Processing: Fulham FC vs Brentford FC (ID: 497501)
+2025-06-15 20:11:05,734 - INFO - [INFO] Intermediate Stats - Detailed: 100, Basic: 0, Failed: 0
+2025-06-15 20:11:05,736 - INFO - [PROGRESS] Progress: 101/380 (26.6%) - Processing: Brentford FC vs AFC Bournemouth (ID: 497510)
+2025-06-15 20:11:12,073 - INFO - [PROGRESS] Progress: 102/380 (26.8%) - Processing: Crystal Palace FC vs Fulham FC (ID: 497513)
+2025-06-15 20:11:18,398 - INFO - [PROGRESS] Progress: 103/380 (27.1%) - Processing: West Ham United FC vs Everton FC (ID: 497518)
+2025-06-15 20:11:24,772 - INFO - [PROGRESS] Progress: 104/380 (27.4%) - Processing: Wolverhampton Wanderers FC vs Southampton FC (ID: 497519)
+2025-06-15 20:11:31,242 - INFO - [PROGRESS] Progress: 105/380 (27.6%) - Processing: Brighton & Hove Albion FC vs Manchester City FC (ID: 497511)
+2025-06-15 20:11:37,604 - INFO - [PROGRESS] Progress: 106/380 (27.9%) - Processing: Liverpool FC vs Aston Villa FC (ID: 497514)
+2025-06-15 20:11:44,004 - INFO - [PROGRESS] Progress: 107/380 (28.2%) - Processing: Manchester United FC vs Leicester City FC (ID: 497515)
+2025-06-15 20:11:50,354 - INFO - [PROGRESS] Progress: 108/380 (28.4%) - Processing: Nottingham Forest FC vs Newcastle United FC (ID: 497516)
+2025-06-15 20:11:56,751 - INFO - [PROGRESS] Progress: 109/380 (28.7%) - Processing: Tottenham Hotspur FC vs Ipswich Town FC (ID: 497517)
+2025-06-15 20:12:03,086 - INFO - [PROGRESS] Progress: 110/380 (28.9%) - Processing: Chelsea FC vs Arsenal FC (ID: 497512)
+2025-06-15 20:12:09,406 - INFO - [INFO] Intermediate Stats - Detailed: 110, Basic: 0, Failed: 0
+2025-06-15 20:12:09,406 - INFO - [PROGRESS] Progress: 111/380 (29.2%) - Processing: Leicester City FC vs Chelsea FC (ID: 497526)
+2025-06-15 20:12:15,755 - INFO - [PROGRESS] Progress: 112/380 (29.5%) - Processing: AFC Bournemouth vs Brighton & Hove Albion FC (ID: 497520)
+2025-06-15 20:12:22,082 - INFO - [PROGRESS] Progress: 113/380 (29.7%) - Processing: Arsenal FC vs Nottingham Forest FC (ID: 497521)
+2025-06-15 20:12:28,420 - INFO - [PROGRESS] Progress: 114/380 (30.0%) - Processing: Aston Villa FC vs Crystal Palace FC (ID: 497522)
+2025-06-15 20:12:34,766 - INFO - [PROGRESS] Progress: 115/380 (30.3%) - Processing: Everton FC vs Brentford FC (ID: 497523)
+2025-06-15 20:12:41,107 - INFO - [PROGRESS] Progress: 116/380 (30.5%) - Processing: Fulham FC vs Wolverhampton Wanderers FC (ID: 497524)
+2025-06-15 20:12:47,455 - INFO - [PROGRESS] Progress: 117/380 (30.8%) - Processing: Manchester City FC vs Tottenham Hotspur FC (ID: 497527)
+2025-06-15 20:12:53,835 - INFO - [PROGRESS] Progress: 118/380 (31.1%) - Processing: Southampton FC vs Liverpool FC (ID: 497529)
+2025-06-15 20:13:00,173 - INFO - [PROGRESS] Progress: 119/380 (31.3%) - Processing: Ipswich Town FC vs Manchester United FC (ID: 497525)
+2025-06-15 20:13:06,511 - INFO - [PROGRESS] Progress: 120/380 (31.6%) - Processing: Newcastle United FC vs West Ham United FC (ID: 497528)
+2025-06-15 20:13:12,873 - INFO - [INFO] Intermediate Stats - Detailed: 120, Basic: 0, Failed: 0
+2025-06-15 20:13:12,878 - INFO - [PROGRESS] Progress: 121/380 (31.8%) - Processing: Brighton & Hove Albion FC vs Southampton FC (ID: 497531)
+2025-06-15 20:13:19,230 - INFO - [PROGRESS] Progress: 122/380 (32.1%) - Processing: Brentford FC vs Leicester City FC (ID: 497530)
+2025-06-15 20:13:25,580 - INFO - [PROGRESS] Progress: 123/380 (32.4%) - Processing: Crystal Palace FC vs Newcastle United FC (ID: 497533)
+2025-06-15 20:13:31,931 - INFO - [PROGRESS] Progress: 124/380 (32.6%) - Processing: Nottingham Forest FC vs Ipswich Town FC (ID: 497536)
+2025-06-15 20:13:38,254 - INFO - [PROGRESS] Progress: 125/380 (32.9%) - Processing: Wolverhampton Wanderers FC vs AFC Bournemouth (ID: 497539)
+2025-06-15 20:13:44,583 - INFO - [PROGRESS] Progress: 126/380 (33.2%) - Processing: West Ham United FC vs Arsenal FC (ID: 497538)
+2025-06-15 20:13:50,941 - INFO - [PROGRESS] Progress: 127/380 (33.4%) - Processing: Chelsea FC vs Aston Villa FC (ID: 497532)
+2025-06-15 20:13:57,304 - INFO - [PROGRESS] Progress: 128/380 (33.7%) - Processing: Manchester United FC vs Everton FC (ID: 497535)
+2025-06-15 20:14:03,656 - INFO - [PROGRESS] Progress: 129/380 (33.9%) - Processing: Tottenham Hotspur FC vs Fulham FC (ID: 497537)
+2025-06-15 20:14:10,054 - INFO - [PROGRESS] Progress: 130/380 (34.2%) - Processing: Liverpool FC vs Manchester City FC (ID: 497534)
+2025-06-15 20:14:16,446 - INFO - [INFO] Intermediate Stats - Detailed: 130, Basic: 0, Failed: 0
+2025-06-15 20:14:16,448 - INFO - [PROGRESS] Progress: 131/380 (34.5%) - Processing: Ipswich Town FC vs Crystal Palace FC (ID: 497545)
+2025-06-15 20:14:22,770 - INFO - [PROGRESS] Progress: 132/380 (34.7%) - Processing: Leicester City FC vs West Ham United FC (ID: 497546)
+2025-06-15 20:14:29,090 - INFO - [PROGRESS] Progress: 133/380 (35.0%) - Processing: Everton FC vs Wolverhampton Wanderers FC (ID: 497543)
+2025-06-15 20:14:35,417 - INFO - [PROGRESS] Progress: 134/380 (35.3%) - Processing: Manchester City FC vs Nottingham Forest FC (ID: 497547)
+2025-06-15 20:14:41,799 - INFO - [PROGRESS] Progress: 135/380 (35.5%) - Processing: Newcastle United FC vs Liverpool FC (ID: 497548)
+2025-06-15 20:14:48,185 - INFO - [PROGRESS] Progress: 136/380 (35.8%) - Processing: Southampton FC vs Chelsea FC (ID: 497549)
+2025-06-15 20:14:54,507 - INFO - [PROGRESS] Progress: 137/380 (36.1%) - Processing: Arsenal FC vs Manchester United FC (ID: 497541)
+2025-06-15 20:15:00,852 - INFO - [PROGRESS] Progress: 138/380 (36.3%) - Processing: Aston Villa FC vs Brentford FC (ID: 497542)
+2025-06-15 20:15:07,201 - INFO - [PROGRESS] Progress: 139/380 (36.6%) - Processing: Fulham FC vs Brighton & Hove Albion FC (ID: 497544)
+2025-06-15 20:15:13,537 - INFO - [PROGRESS] Progress: 140/380 (36.8%) - Processing: AFC Bournemouth vs Tottenham Hotspur FC (ID: 497540)
+2025-06-15 20:15:19,955 - INFO - [INFO] Intermediate Stats - Detailed: 140, Basic: 0, Failed: 0
+2025-06-15 20:15:19,956 - INFO - [PROGRESS] Progress: 141/380 (37.1%) - Processing: Aston Villa FC vs Southampton FC (ID: 497550)
+2025-06-15 20:15:26,257 - INFO - [PROGRESS] Progress: 142/380 (37.4%) - Processing: Brentford FC vs Newcastle United FC (ID: 497551)
+2025-06-15 20:15:32,588 - INFO - [PROGRESS] Progress: 143/380 (37.6%) - Processing: Crystal Palace FC vs Manchester City FC (ID: 497552)
+2025-06-15 20:15:38,955 - INFO - [PROGRESS] Progress: 144/380 (37.9%) - Processing: Manchester United FC vs Nottingham Forest FC (ID: 497557)
+2025-06-15 20:15:45,290 - INFO - [PROGRESS] Progress: 145/380 (38.2%) - Processing: Fulham FC vs Arsenal FC (ID: 497554)
+2025-06-15 20:15:51,629 - INFO - [PROGRESS] Progress: 146/380 (38.4%) - Processing: Ipswich Town FC vs AFC Bournemouth (ID: 497555)
+2025-06-15 20:15:57,946 - INFO - [PROGRESS] Progress: 147/380 (38.7%) - Processing: Leicester City FC vs Brighton & Hove Albion FC (ID: 497556)
+2025-06-15 20:16:04,288 - INFO - [PROGRESS] Progress: 148/380 (38.9%) - Processing: Tottenham Hotspur FC vs Chelsea FC (ID: 497558)
+2025-06-15 20:16:10,627 - INFO - [PROGRESS] Progress: 149/380 (39.2%) - Processing: West Ham United FC vs Wolverhampton Wanderers FC (ID: 497559)
+2025-06-15 20:16:16,958 - INFO - [PROGRESS] Progress: 150/380 (39.5%) - Processing: Arsenal FC vs Everton FC (ID: 497561)
+2025-06-15 20:16:23,335 - INFO - [INFO] Intermediate Stats - Detailed: 150, Basic: 0, Failed: 0
+2025-06-15 20:16:23,336 - INFO - [PROGRESS] Progress: 151/380 (39.7%) - Processing: Liverpool FC vs Fulham FC (ID: 497564)
+2025-06-15 20:16:29,676 - INFO - [PROGRESS] Progress: 152/380 (40.0%) - Processing: Newcastle United FC vs Leicester City FC (ID: 497566)
+2025-06-15 20:16:36,008 - INFO - [PROGRESS] Progress: 153/380 (40.3%) - Processing: Wolverhampton Wanderers FC vs Ipswich Town FC (ID: 497569)
+2025-06-15 20:16:42,322 - INFO - [PROGRESS] Progress: 154/380 (40.5%) - Processing: Nottingham Forest FC vs Aston Villa FC (ID: 497567)
+2025-06-15 20:16:48,658 - INFO - [PROGRESS] Progress: 155/380 (40.8%) - Processing: Brighton & Hove Albion FC vs Crystal Palace FC (ID: 497562)
+2025-06-15 20:16:54,998 - INFO - [PROGRESS] Progress: 156/380 (41.1%) - Processing: Manchester City FC vs Manchester United FC (ID: 497565)
+2025-06-15 20:17:01,332 - INFO - [PROGRESS] Progress: 157/380 (41.3%) - Processing: Chelsea FC vs Brentford FC (ID: 497563)
+2025-06-15 20:17:07,659 - INFO - [PROGRESS] Progress: 158/380 (41.6%) - Processing: Southampton FC vs Tottenham Hotspur FC (ID: 497568)
+2025-06-15 20:17:14,007 - INFO - [PROGRESS] Progress: 159/380 (41.8%) - Processing: AFC Bournemouth vs West Ham United FC (ID: 497560)
+2025-06-15 20:17:20,344 - INFO - [PROGRESS] Progress: 160/380 (42.1%) - Processing: Aston Villa FC vs Manchester City FC (ID: 497570)
+2025-06-15 20:17:26,704 - INFO - [INFO] Intermediate Stats - Detailed: 160, Basic: 0, Failed: 0
+2025-06-15 20:17:26,705 - INFO - [PROGRESS] Progress: 161/380 (42.4%) - Processing: Brentford FC vs Nottingham Forest FC (ID: 497571)
+2025-06-15 20:17:33,041 - INFO - [PROGRESS] Progress: 162/380 (42.6%) - Processing: Ipswich Town FC vs Newcastle United FC (ID: 497575)
+2025-06-15 20:17:39,397 - INFO - [PROGRESS] Progress: 163/380 (42.9%) - Processing: West Ham United FC vs Brighton & Hove Albion FC (ID: 497579)
+2025-06-15 20:17:45,752 - INFO - [PROGRESS] Progress: 164/380 (43.2%) - Processing: Crystal Palace FC vs Arsenal FC (ID: 497572)
+2025-06-15 20:17:52,087 - INFO - [PROGRESS] Progress: 165/380 (43.4%) - Processing: Everton FC vs Chelsea FC (ID: 497573)
+2025-06-15 20:17:58,484 - INFO - [PROGRESS] Progress: 166/380 (43.7%) - Processing: Fulham FC vs Southampton FC (ID: 497574)
+2025-06-15 20:18:04,807 - INFO - [PROGRESS] Progress: 167/380 (43.9%) - Processing: Leicester City FC vs Wolverhampton Wanderers FC (ID: 497576)
+2025-06-15 20:18:11,174 - INFO - [PROGRESS] Progress: 168/380 (44.2%) - Processing: Manchester United FC vs AFC Bournemouth (ID: 497577)
+2025-06-15 20:18:17,499 - INFO - [PROGRESS] Progress: 169/380 (44.5%) - Processing: Tottenham Hotspur FC vs Liverpool FC (ID: 497578)
+2025-06-15 20:18:23,829 - INFO - [PROGRESS] Progress: 170/380 (44.7%) - Processing: Manchester City FC vs Everton FC (ID: 497585)
+2025-06-15 20:18:30,148 - INFO - [INFO] Intermediate Stats - Detailed: 170, Basic: 0, Failed: 0
+2025-06-15 20:18:30,149 - INFO - [PROGRESS] Progress: 171/380 (45.0%) - Processing: AFC Bournemouth vs Crystal Palace FC (ID: 497580)
+2025-06-15 20:18:36,543 - INFO - [PROGRESS] Progress: 172/380 (45.3%) - Processing: Chelsea FC vs Fulham FC (ID: 497583)
+2025-06-15 20:18:42,892 - INFO - [PROGRESS] Progress: 173/380 (45.5%) - Processing: Newcastle United FC vs Aston Villa FC (ID: 497586)
+2025-06-15 20:18:49,230 - INFO - [PROGRESS] Progress: 174/380 (45.8%) - Processing: Nottingham Forest FC vs Tottenham Hotspur FC (ID: 497587)
+2025-06-15 20:18:55,605 - INFO - [PROGRESS] Progress: 175/380 (46.1%) - Processing: Southampton FC vs West Ham United FC (ID: 497588)
+2025-06-15 20:19:01,976 - INFO - [PROGRESS] Progress: 176/380 (46.3%) - Processing: Wolverhampton Wanderers FC vs Manchester United FC (ID: 497589)
+2025-06-15 20:19:08,332 - INFO - [PROGRESS] Progress: 177/380 (46.6%) - Processing: Liverpool FC vs Leicester City FC (ID: 497584)
+2025-06-15 20:19:14,660 - INFO - [PROGRESS] Progress: 178/380 (46.8%) - Processing: Brighton & Hove Albion FC vs Brentford FC (ID: 497582)
+2025-06-15 20:19:21,087 - INFO - [PROGRESS] Progress: 179/380 (47.1%) - Processing: Arsenal FC vs Ipswich Town FC (ID: 497581)
+2025-06-15 20:19:27,440 - INFO - [PROGRESS] Progress: 180/380 (47.4%) - Processing: Leicester City FC vs Manchester City FC (ID: 497596)
+2025-06-15 20:19:33,776 - INFO - [INFO] Intermediate Stats - Detailed: 180, Basic: 0, Failed: 0
+2025-06-15 20:19:33,778 - INFO - [PROGRESS] Progress: 181/380 (47.6%) - Processing: Crystal Palace FC vs Southampton FC (ID: 497592)
+2025-06-15 20:19:40,109 - INFO - [PROGRESS] Progress: 182/380 (47.9%) - Processing: Everton FC vs Nottingham Forest FC (ID: 497593)
+2025-06-15 20:19:46,426 - INFO - [PROGRESS] Progress: 183/380 (48.2%) - Processing: Fulham FC vs AFC Bournemouth (ID: 497594)
+2025-06-15 20:19:52,757 - INFO - [PROGRESS] Progress: 184/380 (48.4%) - Processing: Tottenham Hotspur FC vs Wolverhampton Wanderers FC (ID: 497598)
+2025-06-15 20:19:59,098 - INFO - [PROGRESS] Progress: 185/380 (48.7%) - Processing: West Ham United FC vs Liverpool FC (ID: 497599)
+2025-06-15 20:20:05,450 - INFO - [PROGRESS] Progress: 186/380 (48.9%) - Processing: Aston Villa FC vs Brighton & Hove Albion FC (ID: 497590)
+2025-06-15 20:20:11,796 - INFO - [PROGRESS] Progress: 187/380 (49.2%) - Processing: Ipswich Town FC vs Chelsea FC (ID: 497595)
+2025-06-15 20:20:18,164 - INFO - [PROGRESS] Progress: 188/380 (49.5%) - Processing: Manchester United FC vs Newcastle United FC (ID: 497597)
+2025-06-15 20:20:24,489 - INFO - [PROGRESS] Progress: 189/380 (49.7%) - Processing: Brentford FC vs Arsenal FC (ID: 497591)
+2025-06-15 20:20:30,810 - INFO - [PROGRESS] Progress: 190/380 (50.0%) - Processing: Tottenham Hotspur FC vs Newcastle United FC (ID: 497607)
+2025-06-15 20:20:37,143 - INFO - [INFO] Intermediate Stats - Detailed: 190, Basic: 0, Failed: 0
+2025-06-15 20:20:37,145 - INFO - [PROGRESS] Progress: 191/380 (50.3%) - Processing: Southampton FC vs Brentford FC (ID: 497601)
+2025-06-15 20:20:43,640 - INFO - [PROGRESS] Progress: 192/380 (50.5%) - Processing: Crystal Palace FC vs Chelsea FC (ID: 497602)
+2025-06-15 20:20:49,979 - INFO - [PROGRESS] Progress: 193/380 (50.8%) - Processing: AFC Bournemouth vs Everton FC (ID: 497603)
+2025-06-15 20:20:56,338 - INFO - [PROGRESS] Progress: 194/380 (51.1%) - Processing: Aston Villa FC vs Leicester City FC (ID: 497605)
+2025-06-15 20:21:02,708 - INFO - [PROGRESS] Progress: 195/380 (51.3%) - Processing: Manchester City FC vs West Ham United FC (ID: 497609)
+2025-06-15 20:21:09,041 - INFO - [PROGRESS] Progress: 196/380 (51.6%) - Processing: Brighton & Hove Albion FC vs Arsenal FC (ID: 497600)
+2025-06-15 20:21:15,395 - INFO - [PROGRESS] Progress: 197/380 (51.8%) - Processing: Fulham FC vs Ipswich Town FC (ID: 497604)
+2025-06-15 20:21:21,752 - INFO - [PROGRESS] Progress: 198/380 (52.1%) - Processing: Liverpool FC vs Manchester United FC (ID: 497606)
+2025-06-15 20:21:28,095 - INFO - [PROGRESS] Progress: 199/380 (52.4%) - Processing: Wolverhampton Wanderers FC vs Nottingham Forest FC (ID: 497608)
+2025-06-15 20:21:34,469 - INFO - [PROGRESS] Progress: 200/380 (52.6%) - Processing: West Ham United FC vs Fulham FC (ID: 497613)
+2025-06-15 20:21:40,818 - INFO - [INFO] Intermediate Stats - Detailed: 200, Basic: 0, Failed: 0
+2025-06-15 20:21:40,819 - INFO - [PROGRESS] Progress: 201/380 (52.9%) - Processing: Brentford FC vs Manchester City FC (ID: 497615)
+2025-06-15 20:21:47,177 - INFO - [PROGRESS] Progress: 202/380 (53.2%) - Processing: Chelsea FC vs AFC Bournemouth (ID: 497617)
+2025-06-15 20:21:53,534 - INFO - [PROGRESS] Progress: 203/380 (53.4%) - Processing: Nottingham Forest FC vs Liverpool FC (ID: 497614)
+2025-06-15 20:21:59,896 - INFO - [PROGRESS] Progress: 204/380 (53.7%) - Processing: Everton FC vs Aston Villa FC (ID: 497610)
+2025-06-15 20:22:06,223 - INFO - [PROGRESS] Progress: 205/380 (53.9%) - Processing: Leicester City FC vs Crystal Palace FC (ID: 497612)
+2025-06-15 20:22:12,546 - INFO - [PROGRESS] Progress: 206/380 (54.2%) - Processing: Newcastle United FC vs Wolverhampton Wanderers FC (ID: 497619)
+2025-06-15 20:22:18,890 - INFO - [PROGRESS] Progress: 207/380 (54.5%) - Processing: Arsenal FC vs Tottenham Hotspur FC (ID: 497616)
+2025-06-15 20:22:25,245 - INFO - [PROGRESS] Progress: 208/380 (54.7%) - Processing: Ipswich Town FC vs Brighton & Hove Albion FC (ID: 497611)
+2025-06-15 20:22:31,574 - INFO - [PROGRESS] Progress: 209/380 (55.0%) - Processing: Manchester United FC vs Southampton FC (ID: 497618)
+2025-06-15 20:22:37,922 - INFO - [PROGRESS] Progress: 210/380 (55.3%) - Processing: Newcastle United FC vs AFC Bournemouth (ID: 497620)
+2025-06-15 20:22:44,247 - INFO - [INFO] Intermediate Stats - Detailed: 210, Basic: 0, Failed: 0
+2025-06-15 20:22:44,247 - INFO - [PROGRESS] Progress: 211/380 (55.5%) - Processing: West Ham United FC vs Crystal Palace FC (ID: 497623)
+2025-06-15 20:22:50,596 - INFO - [PROGRESS] Progress: 212/380 (55.8%) - Processing: Leicester City FC vs Fulham FC (ID: 497624)
+2025-06-15 20:22:56,913 - INFO - [PROGRESS] Progress: 213/380 (56.1%) - Processing: Brentford FC vs Liverpool FC (ID: 497625)
+2025-06-15 20:23:03,299 - INFO - [PROGRESS] Progress: 214/380 (56.3%) - Processing: Arsenal FC vs Aston Villa FC (ID: 497621)
+2025-06-15 20:23:09,641 - INFO - [PROGRESS] Progress: 215/380 (56.6%) - Processing: Manchester United FC vs Brighton & Hove Albion FC (ID: 497622)
+2025-06-15 20:23:15,949 - INFO - [PROGRESS] Progress: 216/380 (56.8%) - Processing: Nottingham Forest FC vs Southampton FC (ID: 497627)
+2025-06-15 20:23:22,339 - INFO - [PROGRESS] Progress: 217/380 (57.1%) - Processing: Everton FC vs Tottenham Hotspur FC (ID: 497628)
+2025-06-15 20:23:28,683 - INFO - [PROGRESS] Progress: 218/380 (57.4%) - Processing: Ipswich Town FC vs Manchester City FC (ID: 497626)
+2025-06-15 20:23:35,027 - INFO - [PROGRESS] Progress: 219/380 (57.6%) - Processing: Chelsea FC vs Wolverhampton Wanderers FC (ID: 497629)
+2025-06-15 20:23:41,352 - INFO - [PROGRESS] Progress: 220/380 (57.9%) - Processing: Liverpool FC vs Ipswich Town FC (ID: 497631)
+2025-06-15 20:23:47,725 - INFO - [INFO] Intermediate Stats - Detailed: 220, Basic: 0, Failed: 0
+2025-06-15 20:23:47,727 - INFO - [PROGRESS] Progress: 221/380 (58.2%) - Processing: Wolverhampton Wanderers FC vs Arsenal FC (ID: 497632)
+2025-06-15 20:23:54,047 - INFO - [PROGRESS] Progress: 222/380 (58.4%) - Processing: Brighton & Hove Albion FC vs Everton FC (ID: 497633)
+2025-06-15 20:24:00,389 - INFO - [PROGRESS] Progress: 223/380 (58.7%) - Processing: Southampton FC vs Newcastle United FC (ID: 497634)
+2025-06-15 20:24:06,754 - INFO - [PROGRESS] Progress: 224/380 (58.9%) - Processing: AFC Bournemouth vs Nottingham Forest FC (ID: 497635)
+2025-06-15 20:24:13,079 - INFO - [PROGRESS] Progress: 225/380 (59.2%) - Processing: Manchester City FC vs Chelsea FC (ID: 497638)
+2025-06-15 20:24:19,439 - INFO - [PROGRESS] Progress: 226/380 (59.5%) - Processing: Crystal Palace FC vs Brentford FC (ID: 497637)
+2025-06-15 20:24:25,817 - INFO - [PROGRESS] Progress: 227/380 (59.7%) - Processing: Tottenham Hotspur FC vs Leicester City FC (ID: 497639)
+2025-06-15 20:24:32,150 - INFO - [PROGRESS] Progress: 228/380 (60.0%) - Processing: Aston Villa FC vs West Ham United FC (ID: 497636)
+2025-06-15 20:24:38,498 - INFO - [PROGRESS] Progress: 229/380 (60.3%) - Processing: Fulham FC vs Manchester United FC (ID: 497630)
+2025-06-15 20:24:44,855 - INFO - [PROGRESS] Progress: 230/380 (60.5%) - Processing: Nottingham Forest FC vs Brighton & Hove Albion FC (ID: 497641)
+2025-06-15 20:24:51,234 - INFO - [INFO] Intermediate Stats - Detailed: 230, Basic: 0, Failed: 0
+2025-06-15 20:24:51,238 - INFO - [PROGRESS] Progress: 231/380 (60.8%) - Processing: Newcastle United FC vs Fulham FC (ID: 497643)
+2025-06-15 20:24:57,588 - INFO - [PROGRESS] Progress: 232/380 (61.1%) - Processing: Everton FC vs Leicester City FC (ID: 497644)
+2025-06-15 20:25:03,998 - INFO - [PROGRESS] Progress: 233/380 (61.3%) - Processing: AFC Bournemouth vs Liverpool FC (ID: 497645)
+2025-06-15 20:25:10,341 - INFO - [PROGRESS] Progress: 234/380 (61.6%) - Processing: Ipswich Town FC vs Southampton FC (ID: 497647)
+2025-06-15 20:25:16,718 - INFO - [PROGRESS] Progress: 235/380 (61.8%) - Processing: Wolverhampton Wanderers FC vs Aston Villa FC (ID: 497640)
+2025-06-15 20:25:23,075 - INFO - [PROGRESS] Progress: 236/380 (62.1%) - Processing: Manchester United FC vs Crystal Palace FC (ID: 497642)
+2025-06-15 20:25:29,442 - INFO - [PROGRESS] Progress: 237/380 (62.4%) - Processing: Brentford FC vs Tottenham Hotspur FC (ID: 497648)
+2025-06-15 20:25:35,865 - INFO - [PROGRESS] Progress: 238/380 (62.6%) - Processing: Arsenal FC vs Manchester City FC (ID: 497646)
+2025-06-15 20:25:42,204 - INFO - [PROGRESS] Progress: 239/380 (62.9%) - Processing: Chelsea FC vs West Ham United FC (ID: 497649)
+2025-06-15 20:25:48,543 - INFO - [PROGRESS] Progress: 240/380 (63.2%) - Processing: Everton FC vs Liverpool FC (ID: 497553)
+2025-06-15 20:25:54,880 - INFO - [INFO] Intermediate Stats - Detailed: 240, Basic: 0, Failed: 0
+2025-06-15 20:25:54,881 - INFO - [PROGRESS] Progress: 241/380 (63.4%) - Processing: Brighton & Hove Albion FC vs Chelsea FC (ID: 497653)
+2025-06-15 20:26:01,244 - INFO - [PROGRESS] Progress: 242/380 (63.7%) - Processing: Leicester City FC vs Arsenal FC (ID: 497651)
+2025-06-15 20:26:07,630 - INFO - [PROGRESS] Progress: 243/380 (63.9%) - Processing: Southampton FC vs AFC Bournemouth (ID: 497650)
+2025-06-15 20:26:13,974 - INFO - [PROGRESS] Progress: 244/380 (64.2%) - Processing: West Ham United FC vs Brentford FC (ID: 497652)
+2025-06-15 20:26:20,306 - INFO - [PROGRESS] Progress: 245/380 (64.5%) - Processing: Aston Villa FC vs Ipswich Town FC (ID: 497655)
+2025-06-15 20:26:26,692 - INFO - [PROGRESS] Progress: 246/380 (64.7%) - Processing: Manchester City FC vs Newcastle United FC (ID: 497657)
+2025-06-15 20:26:33,015 - INFO - [PROGRESS] Progress: 247/380 (65.0%) - Processing: Fulham FC vs Nottingham Forest FC (ID: 497658)
+2025-06-15 20:26:39,354 - INFO - [PROGRESS] Progress: 248/380 (65.3%) - Processing: Crystal Palace FC vs Everton FC (ID: 497654)
+2025-06-15 20:26:45,666 - INFO - [PROGRESS] Progress: 249/380 (65.5%) - Processing: Liverpool FC vs Wolverhampton Wanderers FC (ID: 497659)
+2025-06-15 20:26:52,023 - INFO - [PROGRESS] Progress: 250/380 (65.8%) - Processing: Tottenham Hotspur FC vs Manchester United FC (ID: 497656)
+2025-06-15 20:26:58,349 - INFO - [INFO] Intermediate Stats - Detailed: 250, Basic: 0, Failed: 0
+2025-06-15 20:26:58,350 - INFO - [PROGRESS] Progress: 251/380 (66.1%) - Processing: Aston Villa FC vs Liverpool FC (ID: 497692)
+2025-06-15 20:27:04,676 - INFO - [PROGRESS] Progress: 252/380 (66.3%) - Processing: Leicester City FC vs Brentford FC (ID: 497660)
+2025-06-15 20:27:11,044 - INFO - [PROGRESS] Progress: 253/380 (66.6%) - Processing: Everton FC vs Manchester United FC (ID: 497665)
+2025-06-15 20:27:17,374 - INFO - [PROGRESS] Progress: 254/380 (66.8%) - Processing: Ipswich Town FC vs Tottenham Hotspur FC (ID: 497666)
+2025-06-15 20:27:23,700 - INFO - [PROGRESS] Progress: 255/380 (67.1%) - Processing: Fulham FC vs Crystal Palace FC (ID: 497667)
+2025-06-15 20:27:30,043 - INFO - [PROGRESS] Progress: 256/380 (67.4%) - Processing: Arsenal FC vs West Ham United FC (ID: 497668)
+2025-06-15 20:27:36,377 - INFO - [PROGRESS] Progress: 257/380 (67.6%) - Processing: AFC Bournemouth vs Wolverhampton Wanderers FC (ID: 497669)
+2025-06-15 20:27:42,699 - INFO - [PROGRESS] Progress: 258/380 (67.9%) - Processing: Southampton FC vs Brighton & Hove Albion FC (ID: 497661)
+2025-06-15 20:27:49,057 - INFO - [PROGRESS] Progress: 259/380 (68.2%) - Processing: Aston Villa FC vs Chelsea FC (ID: 497662)
+2025-06-15 20:27:55,406 - INFO - [PROGRESS] Progress: 260/380 (68.4%) - Processing: Newcastle United FC vs Nottingham Forest FC (ID: 497663)
+2025-06-15 20:28:01,732 - INFO - [INFO] Intermediate Stats - Detailed: 260, Basic: 0, Failed: 0
+2025-06-15 20:28:01,734 - INFO - [PROGRESS] Progress: 261/380 (68.7%) - Processing: Manchester City FC vs Liverpool FC (ID: 497664)
+2025-06-15 20:28:08,071 - INFO - [PROGRESS] Progress: 262/380 (68.9%) - Processing: Brighton & Hove Albion FC vs AFC Bournemouth (ID: 497670)
+2025-06-15 20:28:14,400 - INFO - [PROGRESS] Progress: 263/380 (69.2%) - Processing: Crystal Palace FC vs Aston Villa FC (ID: 497672)
+2025-06-15 20:28:20,779 - INFO - [PROGRESS] Progress: 264/380 (69.5%) - Processing: Wolverhampton Wanderers FC vs Fulham FC (ID: 497674)
+2025-06-15 20:28:27,135 - INFO - [PROGRESS] Progress: 265/380 (69.7%) - Processing: Chelsea FC vs Southampton FC (ID: 497678)
+2025-06-15 20:28:33,493 - INFO - [PROGRESS] Progress: 266/380 (70.0%) - Processing: Nottingham Forest FC vs Arsenal FC (ID: 497671)
+2025-06-15 20:28:39,843 - INFO - [PROGRESS] Progress: 267/380 (70.3%) - Processing: Brentford FC vs Everton FC (ID: 497673)
+2025-06-15 20:28:46,175 - INFO - [PROGRESS] Progress: 268/380 (70.5%) - Processing: Tottenham Hotspur FC vs Manchester City FC (ID: 497675)
+2025-06-15 20:28:52,516 - INFO - [PROGRESS] Progress: 269/380 (70.8%) - Processing: Manchester United FC vs Ipswich Town FC (ID: 497677)
+2025-06-15 20:28:58,877 - INFO - [PROGRESS] Progress: 270/380 (71.1%) - Processing: Liverpool FC vs Newcastle United FC (ID: 497679)
+2025-06-15 20:29:05,238 - INFO - [INFO] Intermediate Stats - Detailed: 270, Basic: 0, Failed: 0
+2025-06-15 20:29:05,241 - INFO - [PROGRESS] Progress: 271/380 (71.3%) - Processing: West Ham United FC vs Leicester City FC (ID: 497676)
+2025-06-15 20:29:11,587 - INFO - [PROGRESS] Progress: 272/380 (71.6%) - Processing: Nottingham Forest FC vs Manchester City FC (ID: 497687)
+2025-06-15 20:29:17,902 - INFO - [PROGRESS] Progress: 273/380 (71.8%) - Processing: Brighton & Hove Albion FC vs Fulham FC (ID: 497684)
+2025-06-15 20:29:24,247 - INFO - [PROGRESS] Progress: 274/380 (72.1%) - Processing: Crystal Palace FC vs Ipswich Town FC (ID: 497685)
+2025-06-15 20:29:30,585 - INFO - [PROGRESS] Progress: 275/380 (72.4%) - Processing: Liverpool FC vs Southampton FC (ID: 497688)
+2025-06-15 20:29:36,902 - INFO - [PROGRESS] Progress: 276/380 (72.6%) - Processing: Brentford FC vs Aston Villa FC (ID: 497682)
+2025-06-15 20:29:43,227 - INFO - [PROGRESS] Progress: 277/380 (72.9%) - Processing: Wolverhampton Wanderers FC vs Everton FC (ID: 497683)
+2025-06-15 20:29:49,552 - INFO - [PROGRESS] Progress: 278/380 (73.2%) - Processing: Tottenham Hotspur FC vs AFC Bournemouth (ID: 497680)
+2025-06-15 20:29:55,894 - INFO - [PROGRESS] Progress: 279/380 (73.4%) - Processing: Chelsea FC vs Leicester City FC (ID: 497689)
+2025-06-15 20:30:02,243 - INFO - [PROGRESS] Progress: 280/380 (73.7%) - Processing: Manchester United FC vs Arsenal FC (ID: 497681)
+2025-06-15 20:30:08,602 - INFO - [INFO] Intermediate Stats - Detailed: 280, Basic: 0, Failed: 0
+2025-06-15 20:30:08,602 - INFO - [PROGRESS] Progress: 281/380 (73.9%) - Processing: West Ham United FC vs Newcastle United FC (ID: 497686)
+2025-06-15 20:30:14,937 - INFO - [PROGRESS] Progress: 282/380 (74.2%) - Processing: Everton FC vs West Ham United FC (ID: 497693)
+2025-06-15 20:30:21,282 - INFO - [PROGRESS] Progress: 283/380 (74.5%) - Processing: Ipswich Town FC vs Nottingham Forest FC (ID: 497695)
+2025-06-15 20:30:27,603 - INFO - [PROGRESS] Progress: 284/380 (74.7%) - Processing: Manchester City FC vs Brighton & Hove Albion FC (ID: 497697)
+2025-06-15 20:30:34,034 - INFO - [PROGRESS] Progress: 285/380 (75.0%) - Processing: Southampton FC vs Wolverhampton Wanderers FC (ID: 497699)
+2025-06-15 20:30:40,376 - INFO - [PROGRESS] Progress: 286/380 (75.3%) - Processing: AFC Bournemouth vs Brentford FC (ID: 497690)
+2025-06-15 20:30:46,742 - INFO - [PROGRESS] Progress: 287/380 (75.5%) - Processing: Arsenal FC vs Chelsea FC (ID: 497691)
+2025-06-15 20:30:53,103 - INFO - [PROGRESS] Progress: 288/380 (75.8%) - Processing: Fulham FC vs Tottenham Hotspur FC (ID: 497694)
+2025-06-15 20:30:59,429 - INFO - [PROGRESS] Progress: 289/380 (76.1%) - Processing: Leicester City FC vs Manchester United FC (ID: 497696)
+2025-06-15 20:31:05,753 - INFO - [PROGRESS] Progress: 290/380 (76.3%) - Processing: Arsenal FC vs Fulham FC (ID: 497701)
+2025-06-15 20:31:12,073 - INFO - [INFO] Intermediate Stats - Detailed: 290, Basic: 0, Failed: 0
+2025-06-15 20:31:12,074 - INFO - [PROGRESS] Progress: 291/380 (76.6%) - Processing: Wolverhampton Wanderers FC vs West Ham United FC (ID: 497704)
+2025-06-15 20:31:18,404 - INFO - [PROGRESS] Progress: 292/380 (76.8%) - Processing: Nottingham Forest FC vs Manchester United FC (ID: 497703)
+2025-06-15 20:31:24,728 - INFO - [PROGRESS] Progress: 293/380 (77.1%) - Processing: AFC Bournemouth vs Ipswich Town FC (ID: 497700)
+2025-06-15 20:31:31,097 - INFO - [PROGRESS] Progress: 294/380 (77.4%) - Processing: Brighton & Hove Albion FC vs Aston Villa FC (ID: 497702)
+2025-06-15 20:31:37,446 - INFO - [PROGRESS] Progress: 295/380 (77.6%) - Processing: Manchester City FC vs Leicester City FC (ID: 497706)
+2025-06-15 20:31:43,817 - INFO - [PROGRESS] Progress: 296/380 (77.9%) - Processing: Newcastle United FC vs Brentford FC (ID: 497707)
+2025-06-15 20:31:50,154 - INFO - [PROGRESS] Progress: 297/380 (78.2%) - Processing: Southampton FC vs Crystal Palace FC (ID: 497708)
+2025-06-15 20:31:56,481 - INFO - [PROGRESS] Progress: 298/380 (78.4%) - Processing: Liverpool FC vs Everton FC (ID: 497709)
+2025-06-15 20:32:02,850 - INFO - [PROGRESS] Progress: 299/380 (78.7%) - Processing: Chelsea FC vs Tottenham Hotspur FC (ID: 497705)
+2025-06-15 20:32:09,254 - INFO - [PROGRESS] Progress: 300/380 (78.9%) - Processing: Everton FC vs Arsenal FC (ID: 497713)
+2025-06-15 20:32:15,646 - INFO - [INFO] Intermediate Stats - Detailed: 300, Basic: 0, Failed: 0
+2025-06-15 20:32:15,647 - INFO - [PROGRESS] Progress: 301/380 (79.2%) - Processing: Crystal Palace FC vs Brighton & Hove Albion FC (ID: 497712)
+2025-06-15 20:32:21,965 - INFO - [PROGRESS] Progress: 302/380 (79.5%) - Processing: Ipswich Town FC vs Wolverhampton Wanderers FC (ID: 497715)
+2025-06-15 20:32:28,288 - INFO - [PROGRESS] Progress: 303/380 (79.7%) - Processing: West Ham United FC vs AFC Bournemouth (ID: 497719)
+2025-06-15 20:32:34,604 - INFO - [PROGRESS] Progress: 304/380 (80.0%) - Processing: Aston Villa FC vs Nottingham Forest FC (ID: 497710)
+2025-06-15 20:32:41,042 - INFO - [PROGRESS] Progress: 305/380 (80.3%) - Processing: Brentford FC vs Chelsea FC (ID: 497711)
+2025-06-15 20:32:47,372 - INFO - [PROGRESS] Progress: 306/380 (80.5%) - Processing: Fulham FC vs Liverpool FC (ID: 497714)
+2025-06-15 20:32:53,741 - INFO - [PROGRESS] Progress: 307/380 (80.8%) - Processing: Tottenham Hotspur FC vs Southampton FC (ID: 497718)
+2025-06-15 20:33:00,074 - INFO - [PROGRESS] Progress: 308/380 (81.1%) - Processing: Manchester United FC vs Manchester City FC (ID: 497717)
+2025-06-15 20:33:06,476 - INFO - [PROGRESS] Progress: 309/380 (81.3%) - Processing: Leicester City FC vs Newcastle United FC (ID: 497716)
+2025-06-15 20:33:12,805 - INFO - [PROGRESS] Progress: 310/380 (81.6%) - Processing: Manchester City FC vs Crystal Palace FC (ID: 497725)
+2025-06-15 20:33:19,173 - INFO - [INFO] Intermediate Stats - Detailed: 310, Basic: 0, Failed: 0
+2025-06-15 20:33:19,174 - INFO - [PROGRESS] Progress: 311/380 (81.8%) - Processing: Brighton & Hove Albion FC vs Leicester City FC (ID: 497722)
+2025-06-15 20:33:25,501 - INFO - [PROGRESS] Progress: 312/380 (82.1%) - Processing: Nottingham Forest FC vs Everton FC (ID: 497727)
+2025-06-15 20:33:31,849 - INFO - [PROGRESS] Progress: 313/380 (82.4%) - Processing: Southampton FC vs Aston Villa FC (ID: 497728)
+2025-06-15 20:33:38,155 - INFO - [PROGRESS] Progress: 314/380 (82.6%) - Processing: Arsenal FC vs Brentford FC (ID: 497721)
+2025-06-15 20:33:44,501 - INFO - [PROGRESS] Progress: 315/380 (82.9%) - Processing: Chelsea FC vs Ipswich Town FC (ID: 497723)
+2025-06-15 20:33:50,845 - INFO - [PROGRESS] Progress: 316/380 (83.2%) - Processing: Liverpool FC vs West Ham United FC (ID: 497724)
+2025-06-15 20:33:57,202 - INFO - [PROGRESS] Progress: 317/380 (83.4%) - Processing: Wolverhampton Wanderers FC vs Tottenham Hotspur FC (ID: 497729)
+2025-06-15 20:34:03,544 - INFO - [PROGRESS] Progress: 318/380 (83.7%) - Processing: Newcastle United FC vs Manchester United FC (ID: 497726)
+2025-06-15 20:34:09,893 - INFO - [PROGRESS] Progress: 319/380 (83.9%) - Processing: AFC Bournemouth vs Fulham FC (ID: 497720)
+2025-06-15 20:34:16,232 - INFO - [PROGRESS] Progress: 320/380 (84.2%) - Processing: Newcastle United FC vs Crystal Palace FC (ID: 497698)
+2025-06-15 20:34:22,556 - INFO - [INFO] Intermediate Stats - Detailed: 320, Basic: 0, Failed: 0
+2025-06-15 20:34:22,556 - INFO - [PROGRESS] Progress: 321/380 (84.5%) - Processing: Brentford FC vs Brighton & Hove Albion FC (ID: 497731)
+2025-06-15 20:34:28,906 - INFO - [PROGRESS] Progress: 322/380 (84.7%) - Processing: Crystal Palace FC vs AFC Bournemouth (ID: 497732)
+2025-06-15 20:34:35,251 - INFO - [PROGRESS] Progress: 323/380 (85.0%) - Processing: Everton FC vs Manchester City FC (ID: 497733)
+2025-06-15 20:34:41,587 - INFO - [PROGRESS] Progress: 324/380 (85.3%) - Processing: West Ham United FC vs Southampton FC (ID: 497739)
+2025-06-15 20:34:47,921 - INFO - [PROGRESS] Progress: 325/380 (85.5%) - Processing: Aston Villa FC vs Newcastle United FC (ID: 497730)
+2025-06-15 20:34:54,251 - INFO - [PROGRESS] Progress: 326/380 (85.8%) - Processing: Fulham FC vs Chelsea FC (ID: 497734)
+2025-06-15 20:35:00,607 - INFO - [PROGRESS] Progress: 327/380 (86.1%) - Processing: Ipswich Town FC vs Arsenal FC (ID: 497735)
+2025-06-15 20:35:06,986 - INFO - [PROGRESS] Progress: 328/380 (86.3%) - Processing: Manchester United FC vs Wolverhampton Wanderers FC (ID: 497737)
+2025-06-15 20:35:13,327 - INFO - [PROGRESS] Progress: 329/380 (86.6%) - Processing: Leicester City FC vs Liverpool FC (ID: 497736)
+2025-06-15 20:35:19,719 - INFO - [PROGRESS] Progress: 330/380 (86.8%) - Processing: Tottenham Hotspur FC vs Nottingham Forest FC (ID: 497738)
+2025-06-15 20:35:26,051 - INFO - [INFO] Intermediate Stats - Detailed: 330, Basic: 0, Failed: 0
+2025-06-15 20:35:26,052 - INFO - [PROGRESS] Progress: 331/380 (87.1%) - Processing: Manchester City FC vs Aston Villa FC (ID: 497745)
+2025-06-15 20:35:32,457 - INFO - [PROGRESS] Progress: 332/380 (87.4%) - Processing: Arsenal FC vs Crystal Palace FC (ID: 497741)
+2025-06-15 20:35:38,814 - INFO - [PROGRESS] Progress: 333/380 (87.6%) - Processing: Chelsea FC vs Everton FC (ID: 497743)
+2025-06-15 20:35:45,158 - INFO - [PROGRESS] Progress: 334/380 (87.9%) - Processing: Brighton & Hove Albion FC vs West Ham United FC (ID: 497742)
+2025-06-15 20:35:51,549 - INFO - [PROGRESS] Progress: 335/380 (88.2%) - Processing: Newcastle United FC vs Ipswich Town FC (ID: 497746)
+2025-06-15 20:35:57,890 - INFO - [PROGRESS] Progress: 336/380 (88.4%) - Processing: Southampton FC vs Fulham FC (ID: 497748)
+2025-06-15 20:36:04,225 - INFO - [PROGRESS] Progress: 337/380 (88.7%) - Processing: Wolverhampton Wanderers FC vs Leicester City FC (ID: 497749)
+2025-06-15 20:36:10,562 - INFO - [PROGRESS] Progress: 338/380 (88.9%) - Processing: AFC Bournemouth vs Manchester United FC (ID: 497740)
+2025-06-15 20:36:16,912 - INFO - [PROGRESS] Progress: 339/380 (89.2%) - Processing: Liverpool FC vs Tottenham Hotspur FC (ID: 497744)
+2025-06-15 20:36:23,257 - INFO - [PROGRESS] Progress: 340/380 (89.5%) - Processing: Nottingham Forest FC vs Brentford FC (ID: 497747)
+2025-06-15 20:36:29,609 - INFO - [INFO] Intermediate Stats - Detailed: 340, Basic: 0, Failed: 0
+2025-06-15 20:36:29,609 - INFO - [PROGRESS] Progress: 341/380 (89.7%) - Processing: Manchester City FC vs Wolverhampton Wanderers FC (ID: 497758)
+2025-06-15 20:36:35,963 - INFO - [PROGRESS] Progress: 342/380 (90.0%) - Processing: Aston Villa FC vs Fulham FC (ID: 497751)
+2025-06-15 20:36:42,325 - INFO - [PROGRESS] Progress: 343/380 (90.3%) - Processing: Everton FC vs Ipswich Town FC (ID: 497756)
+2025-06-15 20:36:48,653 - INFO - [PROGRESS] Progress: 344/380 (90.5%) - Processing: Leicester City FC vs Southampton FC (ID: 497757)
+2025-06-15 20:36:55,023 - INFO - [PROGRESS] Progress: 345/380 (90.8%) - Processing: Arsenal FC vs AFC Bournemouth (ID: 497750)
+2025-06-15 20:37:01,371 - INFO - [PROGRESS] Progress: 346/380 (91.1%) - Processing: Brentford FC vs Manchester United FC (ID: 497752)
+2025-06-15 20:37:07,761 - INFO - [PROGRESS] Progress: 347/380 (91.3%) - Processing: Brighton & Hove Albion FC vs Newcastle United FC (ID: 497753)
+2025-06-15 20:37:14,086 - INFO - [PROGRESS] Progress: 348/380 (91.6%) - Processing: West Ham United FC vs Tottenham Hotspur FC (ID: 497759)
+2025-06-15 20:37:20,439 - INFO - [PROGRESS] Progress: 349/380 (91.8%) - Processing: Chelsea FC vs Liverpool FC (ID: 497754)
+2025-06-15 20:37:26,759 - INFO - [PROGRESS] Progress: 350/380 (92.1%) - Processing: Crystal Palace FC vs Nottingham Forest FC (ID: 497755)
+2025-06-15 20:37:33,093 - INFO - [INFO] Intermediate Stats - Detailed: 350, Basic: 0, Failed: 0
+2025-06-15 20:37:33,096 - INFO - [PROGRESS] Progress: 351/380 (92.4%) - Processing: Fulham FC vs Everton FC (ID: 497761)
+2025-06-15 20:37:39,483 - INFO - [PROGRESS] Progress: 352/380 (92.6%) - Processing: Ipswich Town FC vs Brentford FC (ID: 497762)
+2025-06-15 20:37:45,817 - INFO - [PROGRESS] Progress: 353/380 (92.9%) - Processing: Southampton FC vs Manchester City FC (ID: 497767)
+2025-06-15 20:37:52,159 - INFO - [PROGRESS] Progress: 354/380 (93.2%) - Processing: Wolverhampton Wanderers FC vs Brighton & Hove Albion FC (ID: 497769)
+2025-06-15 20:37:58,483 - INFO - [PROGRESS] Progress: 355/380 (93.4%) - Processing: AFC Bournemouth vs Aston Villa FC (ID: 497760)
+2025-06-15 20:38:04,793 - INFO - [PROGRESS] Progress: 356/380 (93.7%) - Processing: Newcastle United FC vs Chelsea FC (ID: 497765)
+2025-06-15 20:38:11,115 - INFO - [PROGRESS] Progress: 357/380 (93.9%) - Processing: Manchester United FC vs West Ham United FC (ID: 497764)
+2025-06-15 20:38:17,442 - INFO - [PROGRESS] Progress: 358/380 (94.2%) - Processing: Nottingham Forest FC vs Leicester City FC (ID: 497766)
+2025-06-15 20:38:23,816 - INFO - [PROGRESS] Progress: 359/380 (94.5%) - Processing: Tottenham Hotspur FC vs Crystal Palace FC (ID: 497768)
+2025-06-15 20:38:30,157 - INFO - [PROGRESS] Progress: 360/380 (94.7%) - Processing: Liverpool FC vs Arsenal FC (ID: 497763)
+2025-06-15 20:38:36,675 - INFO - [INFO] Intermediate Stats - Detailed: 360, Basic: 0, Failed: 0
+2025-06-15 20:38:36,675 - INFO - [PROGRESS] Progress: 361/380 (95.0%) - Processing: Aston Villa FC vs Tottenham Hotspur FC (ID: 497771)
+2025-06-15 20:38:43,153 - INFO - [PROGRESS] Progress: 362/380 (95.3%) - Processing: Chelsea FC vs Manchester United FC (ID: 497774)
+2025-06-15 20:38:49,501 - INFO - [PROGRESS] Progress: 363/380 (95.5%) - Processing: Everton FC vs Southampton FC (ID: 497776)
+2025-06-15 20:38:56,027 - INFO - [PROGRESS] Progress: 364/380 (95.8%) - Processing: West Ham United FC vs Nottingham Forest FC (ID: 497779)
+2025-06-15 20:39:02,348 - INFO - [PROGRESS] Progress: 365/380 (96.1%) - Processing: Brentford FC vs Fulham FC (ID: 497772)
+2025-06-15 20:39:08,688 - INFO - [PROGRESS] Progress: 366/380 (96.3%) - Processing: Leicester City FC vs Ipswich Town FC (ID: 497777)
+2025-06-15 20:39:15,032 - INFO - [PROGRESS] Progress: 367/380 (96.6%) - Processing: Arsenal FC vs Newcastle United FC (ID: 497770)
+2025-06-15 20:39:21,359 - INFO - [PROGRESS] Progress: 368/380 (96.8%) - Processing: Brighton & Hove Albion FC vs Liverpool FC (ID: 497773)
+2025-06-15 20:39:27,698 - INFO - [PROGRESS] Progress: 369/380 (97.1%) - Processing: Crystal Palace FC vs Wolverhampton Wanderers FC (ID: 497775)
+2025-06-15 20:39:34,050 - INFO - [PROGRESS] Progress: 370/380 (97.4%) - Processing: Manchester City FC vs AFC Bournemouth (ID: 497778)
+2025-06-15 20:39:40,510 - INFO - [INFO] Intermediate Stats - Detailed: 370, Basic: 0, Failed: 0
+2025-06-15 20:39:40,510 - INFO - [PROGRESS] Progress: 371/380 (97.6%) - Processing: AFC Bournemouth vs Leicester City FC (ID: 497780)
+2025-06-15 20:39:46,838 - INFO - [PROGRESS] Progress: 372/380 (97.9%) - Processing: Fulham FC vs Manchester City FC (ID: 497781)
+2025-06-15 20:39:53,176 - INFO - [PROGRESS] Progress: 373/380 (98.2%) - Processing: Ipswich Town FC vs West Ham United FC (ID: 497782)
+2025-06-15 20:39:59,558 - INFO - [PROGRESS] Progress: 374/380 (98.4%) - Processing: Liverpool FC vs Crystal Palace FC (ID: 497783)
+2025-06-15 20:40:05,886 - INFO - [PROGRESS] Progress: 375/380 (98.7%) - Processing: Manchester United FC vs Aston Villa FC (ID: 497784)
+2025-06-15 20:40:12,252 - INFO - [PROGRESS] Progress: 376/380 (98.9%) - Processing: Newcastle United FC vs Everton FC (ID: 497785)
+2025-06-15 20:40:18,570 - INFO - [PROGRESS] Progress: 377/380 (99.2%) - Processing: Nottingham Forest FC vs Chelsea FC (ID: 497786)
+2025-06-15 20:40:25,032 - INFO - [PROGRESS] Progress: 378/380 (99.5%) - Processing: Southampton FC vs Arsenal FC (ID: 497787)
+2025-06-15 20:40:31,354 - INFO - [PROGRESS] Progress: 379/380 (99.7%) - Processing: Tottenham Hotspur FC vs Brighton & Hove Albion FC (ID: 497788)
+2025-06-15 20:40:37,711 - INFO - [PROGRESS] Progress: 380/380 (100.0%) - Processing: Wolverhampton Wanderers FC vs Brentford FC (ID: 497789)
+2025-06-15 20:40:44,057 - INFO - [INFO] Intermediate Stats - Detailed: 380, Basic: 0, Failed: 0
+2025-06-15 20:40:44,061 - INFO - [SUCCESS] Collection completed for Premier League!
+2025-06-15 20:40:44,064 - INFO - [INFO] Final Statistics:
+2025-06-15 20:40:44,064 - INFO -    Total matches: 380
+2025-06-15 20:40:44,064 - INFO -    Successfully processed: 380
+2025-06-15 20:40:44,064 - INFO -    Detailed data: 380
+2025-06-15 20:40:44,064 - INFO -    Basic data only: 0
+2025-06-15 20:40:44,064 - INFO -    Failed: 0
+2025-06-15 20:40:44,064 - INFO -    Collection time: 40.25 minutes
+2025-06-15 20:40:44,064 - INFO -    API requests: 381 (Success: 381, Failed: 0)
+2025-06-15 20:40:44,073 - INFO - [PAUSE] Taking 30s break before next competition...
+2025-06-15 20:41:14,086 - INFO - [DB] Database connection closed
+2025-06-15 20:59:43,727 - INFO - Enhanced database tables created successfully!
+2025-06-15 20:59:43,727 - INFO - 
+=== COLLECTION SUMMARY ===
+2025-06-15 20:59:43,744 - INFO - 
+=== OVERALL API USAGE ===
+2025-06-15 20:59:43,759 - INFO - Total API requests made: 0
+2025-06-15 20:59:43,761 - INFO - Successful requests: 0
+2025-06-15 20:59:43,761 - INFO - Failed requests: 0
+2025-06-15 20:59:43,761 - INFO - N/A
+2025-06-15 20:59:43,761 - INFO - [DB] Database connection closed
+2025-06-15 21:02:11,346 - INFO - Enhanced database tables created successfully!
+2025-06-15 21:02:11,346 - INFO - [CALC] Calculating team strength ratings...
+2025-06-15 21:02:11,346 - ERROR - [ERROR] Error calculating rating for Manchester United FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,346 - ERROR - [ERROR] Error calculating rating for Fulham FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,346 - ERROR - [ERROR] Error calculating rating for Ipswich Town FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,346 - ERROR - [ERROR] Error calculating rating for Liverpool FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,362 - ERROR - [ERROR] Error calculating rating for Arsenal FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,363 - ERROR - [ERROR] Error calculating rating for Wolverhampton Wanderers FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,363 - ERROR - [ERROR] Error calculating rating for Everton FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,363 - ERROR - [ERROR] Error calculating rating for Brighton & Hove Albion FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,369 - ERROR - [ERROR] Error calculating rating for Newcastle United FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,370 - ERROR - [ERROR] Error calculating rating for Southampton FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,371 - ERROR - [ERROR] Error calculating rating for Nottingham Forest FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,372 - ERROR - [ERROR] Error calculating rating for AFC Bournemouth: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,373 - ERROR - [ERROR] Error calculating rating for West Ham United FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,374 - ERROR - [ERROR] Error calculating rating for Aston Villa FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,375 - ERROR - [ERROR] Error calculating rating for Brentford FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,376 - ERROR - [ERROR] Error calculating rating for Crystal Palace FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,378 - ERROR - [ERROR] Error calculating rating for Chelsea FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,380 - ERROR - [ERROR] Error calculating rating for Manchester City FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,382 - ERROR - [ERROR] Error calculating rating for Leicester City FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,383 - ERROR - [ERROR] Error calculating rating for Tottenham Hotspur FC: unsupported operand type(s) for +: 'int' and 'str'
+2025-06-15 21:02:11,384 - INFO - [SUCCESS] Calculated ratings for 0/20 teams
+2025-06-15 21:02:11,384 - INFO - 
+=== PREMIER LEAGUE TEAM RATINGS ===
+2025-06-15 21:02:11,390 - WARNING - No ratings found for Premier League
+2025-06-15 21:02:11,392 - INFO - [DB] Database connection closed
+2025-06-15 22:35:22,328 - INFO - Enhanced database tables created successfully!
+2025-06-15 22:35:22,328 - INFO - [CALC] Calculating team strength ratings...
+2025-06-15 22:35:22,353 - INFO - [INFO] Processed ratings for 5/20 teams
+2025-06-15 22:35:22,386 - INFO - [INFO] Processed ratings for 10/20 teams
+2025-06-15 22:35:22,415 - INFO - [INFO] Processed ratings for 15/20 teams
+2025-06-15 22:35:22,449 - INFO - [INFO] Processed ratings for 20/20 teams
+2025-06-15 22:35:22,451 - INFO - [SUCCESS] Calculated ratings for 20/20 teams
+2025-06-15 22:35:22,452 - INFO - [H2H] Calculating head-to-head records...
+2025-06-15 22:35:22,490 - INFO - [INFO] Processed 10 head-to-head records...
+2025-06-15 22:35:22,533 - INFO - [INFO] Processed 20 head-to-head records...
+2025-06-15 22:35:22,561 - INFO - [INFO] Processed 30 head-to-head records...
+2025-06-15 22:35:22,590 - INFO - [INFO] Processed 40 head-to-head records...
+2025-06-15 22:35:22,624 - INFO - [INFO] Processed 50 head-to-head records...
+2025-06-15 22:35:22,646 - INFO - [INFO] Processed 60 head-to-head records...
+2025-06-15 22:35:22,685 - INFO - [INFO] Processed 70 head-to-head records...
+2025-06-15 22:35:22,711 - INFO - [INFO] Processed 80 head-to-head records...
+2025-06-15 22:35:22,734 - INFO - [INFO] Processed 90 head-to-head records...
+2025-06-15 22:35:22,763 - INFO - [INFO] Processed 100 head-to-head records...
+2025-06-15 22:35:22,778 - INFO - [INFO] Processed 110 head-to-head records...
+2025-06-15 22:35:22,812 - INFO - [INFO] Processed 120 head-to-head records...
+2025-06-15 22:35:22,838 - INFO - [INFO] Processed 130 head-to-head records...
+2025-06-15 22:35:22,866 - INFO - [INFO] Processed 140 head-to-head records...
+2025-06-15 22:35:22,892 - INFO - [INFO] Processed 150 head-to-head records...
+2025-06-15 22:35:22,917 - INFO - [INFO] Processed 160 head-to-head records...
+2025-06-15 22:35:22,946 - INFO - [INFO] Processed 170 head-to-head records...
+2025-06-15 22:35:22,962 - INFO - [INFO] Processed 180 head-to-head records...
+2025-06-15 22:35:23,000 - INFO - [INFO] Processed 190 head-to-head records...
+2025-06-15 22:35:23,000 - INFO - [SUCCESS] Calculated 190 head-to-head records
+2025-06-15 22:35:23,000 - INFO - 
+=== PREMIER LEAGUE TEAM RATINGS ===
+2025-06-15 22:35:23,013 - INFO - [DB] Database connection closed

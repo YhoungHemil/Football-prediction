@@ -8,11 +8,11 @@ from typing import Dict, List
 @dataclass
 class APIConfig:
     """API configuration"""
-    # Football-Data.org API
-    football_data_api_key: str = "751bc97db5fa4f4ba08955bdda5a07d0"
+    # Football-Data.org API - now read from environment variable
+    football_data_api_key: str = ""
     
-    # The Odds API (free tier)
-    odds_api_key: str = "0a37c3f215f3a61ba0ed12df8db98ed1"  # Get from https://the-odds-api.com/
+    # The Odds API (free tier) - now read from environment variable
+    odds_api_key: str = ""
     
     # Rate limiting
     request_delay: int = 3
@@ -167,9 +167,15 @@ class Config:
     
     def update_from_env(self):
         """Update configuration from environment variables"""
-        # API keys from environment
-        self.api.odds_api_key = os.getenv('ODDS_API_KEY', self.api.odds_api_key)
-        self.api.football_data_api_key = os.getenv('FOOTBALL_DATA_API_KEY', self.api.football_data_api_key)
+        # API keys from environment - will override empty defaults
+        self.api.odds_api_key = os.getenv('ODDS_API_KEY', '')
+        self.api.football_data_api_key = os.getenv('FOOTBALL_DATA_API_KEY', '')
+        
+        # Optional: raise error if keys are missing (uncomment if you want strict check)
+        # if not self.api.odds_api_key:
+        #     raise ValueError("ODDS_API_KEY environment variable not set")
+        # if not self.api.football_data_api_key:
+        #     raise ValueError("FOOTBALL_DATA_API_KEY environment variable not set")
         
         # Database path
         self.database.db_path = os.getenv('DB_PATH', self.database.db_path)

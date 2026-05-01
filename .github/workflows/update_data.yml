@@ -1,0 +1,32 @@
+name: Update Live Database and Train Model
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # Runs daily at 6 AM UTC
+  workflow_dispatch:        # Allows manual trigger from GitHub
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install requests pandas
+      - name: Collect live data
+        run: python run_system.py collect
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+      - name: Train model
+        run: python run_system.py train
+      - name: Commit and push updated database & model
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add enhanced_football_data.db comprehensive_football_data.db *.pkl
+          git commit -m "Auto-update: fresh data and model $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
